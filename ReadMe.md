@@ -31,10 +31,10 @@
     **3-3. XGBoost 기반 향후 6주간 매출 예측**
     
 2. 역할분담
-    
+    - 공통: 전처리 로직 및 코드 리뷰
     - 김민주: EDA 및 회귀모델 및 보고서 총괄
     - 이유리 : Decision Tree
-    - 임동현 : Random Forest
+    - 임동현 : Random Forest, 기초 전처리
     - 임강민 : XGBoost
       
     
