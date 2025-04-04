@@ -115,7 +115,8 @@ Rossmann은 7개의 유럽 국가에서 3000개 이상의 드럭스토어를 운
 1. 결측치 처리
     - Date 칼럼으로 Month, Day 등의 날짜 파생 변수 생성
     - Store 기준으로 train.csv와 store.csv를 병합하여 파일 재구성
-    - 참조 코드 : [PreProcess_Merge.ipynb](Documents/GitHub/03.-ML-Model-Time-Series-Sales-Prediction/전처리/PreProcess_Merge.ipynb)
+    - 참조 코드 : [PreProcess_Merge.ipynb](Documents/GitHub/03.-ML-Model-Time-Series-Sales-Prediction/전처리된 데이터셋/PreProcess_Merge.ipynb)
+  
         
    <img width="616" alt="image" src="https://github.com/user-attachments/assets/d9af1ce7-f619-4339-9a02-261df4241d93" />    
     
